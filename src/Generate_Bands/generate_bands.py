@@ -102,6 +102,8 @@ def draw_fig_aritifical_models(pickle_file):
     data = sorted(data, key=lambda x: x[1])
     for d in data:
         print d
+    import pdb
+    pdb.set_trace()
     # projects = ["SS"+str(i+1) for i,d in enumerate(data)]
     projects = [modify_name(d[0]) for d in data]
     y_pos = [i*10 for i in np.arange(len(projects))]

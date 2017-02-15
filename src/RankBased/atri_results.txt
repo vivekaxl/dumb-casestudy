@@ -1,0 +1,27 @@
+
+>>>>  0.4 fifty_interaction_apache.csv 50 192
+>>>>  0.4 fifty_interaction_bdbc.csv 559 2560
+>>>>  0.4 fifty_interaction_bdbj.csv 20 180
+>>>>  0.4 fifty_interaction_llvm.csv 93 1024
+>>>>  0.4 fifty_interaction_sqlite.csv 680 4653
+>>>>  0.4 no_interaction_apache.csv 48 192
+>>>>  0.4 no_interaction_bdbc.csv 182 2560
+>>>>  0.4 no_interaction_bdbj.csv 49 180
+>>>>  0.4 no_interaction_llvm.csv 81 1024
+>>>>  0.4 no_interaction_sqlite.csv 671 4653
+>>>>  0.4 one_hundred_interaction_apache.csv 56 192
+>>>>  0.4 one_hundred_interaction_bdbc.csv 373 2560
+>>>>  0.4 one_hundred_interaction_bdbj.csv 49 180
+>>>>  0.4 one_hundred_interaction_llvm.csv 84 1024
+>>>>  0.4 one_hundred_interaction_sqlite.csv 1005 4653
+>>>>  0.4 twentyfive_interaction_bdbc.csv 199 2560
+>>>>  0.4 twentyfive_interaction_llvm.csv 79 1024
+>>>>  0.4 twentyfive_interaction_sqlite.csv 1276 4653
+>>>>  0.4 two_hundred_interaction_apache.csv 60 192
+>>>>  0.4 two_hundred_interaction_bdbc.csv 759 2560
+>>>>  0.4 two_hundred_interaction_bdbj.csv 40 180
+>>>>  0.4 two_hundred_interaction_llvm.csv 216 1024
+>>>>  0.4 two_hundred_interaction_sqlite.csv 1072 4653
+>>>>  0.4 twentyfive_interaction_apache.csv 15 192
+
+
